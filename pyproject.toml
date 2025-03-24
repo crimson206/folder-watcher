@@ -34,6 +34,7 @@ dependencies = [
 ]
 requires-python = ">=3.9"
 
+
 [project.urls]
 "Homepage" = "https://github.com/crimson206/folder-watcher"
 "Bug Tracker" = "https://github.com/crimson206/folder-watcher/issues"
